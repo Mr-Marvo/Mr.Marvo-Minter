@@ -27,8 +27,20 @@ In the project directory, you can run:
 
 Follow me to through gate of hell ♨
 
-##### Design Minting dApp Front-End:
+#### Design Minting dApp Front-End:
 
     ✔   First create react project and Run.
             `npx create-react-app APP_NAME`
+
+    ✔   Develop Minting dApp Front-End Design.
+
+    ✔   Copy & Paste all assets to public folder.
     
+    ✔   Connect CSS & JS files using React Helment.
+            `npm i react-helmet`
+
+    ✔   Fix all css html tag errors and Run.
+
+    ✔   Front-End Design Complete
+
+#### Design Minting dApp Front-End:
