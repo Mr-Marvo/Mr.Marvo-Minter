@@ -6,10 +6,10 @@ This is a Minting dApp with full cusotmizable front-end and very easy contract i
 
 In the project directory, you can run:
 
-    `git clone https://github.com/Mr-Marvo/Mr.Marvo-Minter.git`
+    📌 `git clone https://github.com/Mr-Marvo/Mr.Marvo-Minter.git`
     Clone Mr.Marvo Minter to local folder.
 
-    `npm install`
+    🚩 `npm install`
     Install all required packages.
 
     `npm start`
