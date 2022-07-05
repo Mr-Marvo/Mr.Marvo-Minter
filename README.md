@@ -27,7 +27,7 @@ In the project directory, you can run:
 
 Follow me to through gate of hell ♨
 
-Design Minting dApp [Front-End]:
+##### Design Minting dApp Front-End:
 
     ✔   First create react project and Run.
             `npx create-react-app APP_NAME`
