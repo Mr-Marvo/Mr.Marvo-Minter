@@ -6,17 +6,17 @@ This is a Minting dApp with full cusotmizable front-end and very easy contract i
 
 In the project directory, you can run:
 
-    ### `git clone https://github.com/Mr-Marvo/Mr.Marvo-Minter.git`
+    `git clone https://github.com/Mr-Marvo/Mr.Marvo-Minter.git`
     Clone Mr.Marvo Minter to local folder.
 
-    ### `npm install`
+    `npm install`
     Install all required packages.
 
-    ### `npm start`
+    `npm start`
     Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
     The page will reload when you make changes.\
 
-    ### `npm run build`
+    `npm run build`
     Builds the app for production to the `build` folder.\
     It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -24,3 +24,9 @@ In the project directory, you can run:
     Your app is ready to be deployed!
 
 ## Learn How to Build Minting dApp from 0.
+
+Follow me to through gate of hell:
+
+    ✔   First create react project and Run.
+            `npx create-react-app APP_NAME`
+    
