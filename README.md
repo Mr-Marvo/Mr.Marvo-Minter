@@ -5,6 +5,7 @@ This is a Minting dApp with full cusotmizable front-end and very easy contract i
 ## How to Run
 
 In the project directory, you can run:
+
     ### `git clone https://github.com/Mr-Marvo/Mr.Marvo-Minter.git`
     Clone Mr.Marvo Minter to local folder.
 
