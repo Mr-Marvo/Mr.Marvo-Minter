@@ -25,7 +25,7 @@ In the project directory, you can run:
 
 ## Learn How to Build Minting dApp from 0.
 
-Follow me to through gate of hell ♨
+Follow me to the end through the gate of hell ♨
 
 #### Design Minting dApp Front-End:
 
