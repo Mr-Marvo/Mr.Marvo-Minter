@@ -43,4 +43,6 @@ Follow me to the end through the gate of hell ♨
 
     ✔   Front-End Design Complete
 
-#### Design Minting dApp Front-End:
+#### Wallet connection:
+
+    ✔   Develop Minting dApp Front-End Design.
